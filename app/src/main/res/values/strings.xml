@@ -1,0 +1,31 @@
+<resources>
+    <!-- General purpose strings -->
+    <string name="app_name">EasyLogistics</string>
+    <string name="title_activity_log_in">LogInActivity</string>
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="back">Back</string>
+
+    <!-- Fragment strings -->
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <!-- Main activity strings -->
+    <string name="mainTitle">Logistics Made Easy</string>
+
+    <!-- Current Job strings -->
+    <string name="startingTimeTitle"><b>Starting Time</b></string>
+    <string name="pickUpLocationTitle"><b>Pick-Up Location</b></string>
+    <string name="dropOffLocationTitle"><b>Drop-Off Location</b></string>
+    <string name="vehicleRegistrationTitle"><b>Vehicle Registration</b></string>
+    <string name="jobIdTitle"><b>Job ID</b></string>
+    <string name="trailerIdTitle"><b>Trailer ID</b></string>
+    <string name="filmProjectNameTitle"><b>Film Project Name</b></string>
+    <string name="buttonJobCompleted">Complete</string>
+    <string name="login">Login</string>
+
+</resources>

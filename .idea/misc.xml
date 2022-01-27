@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.21510416666666668" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.17962962962962964" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout-v31/activity_splash_screen.xml" value="0.3625" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout/activity_available_jobs.xml" value="0.22" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout/activity_available_jobs2.xml" value="0.3625" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout/activity_current_job.xml" value="0.18" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout/activity_login.xml" value="0.20260416666666667" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout/activity_main.xml" value="0.2259963768115942" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout/activity_register.xml" value="0.2807971014492754" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/layout/activity_splash_screen.xml" value="0.12" />
+        <entry key="..\:/Users/khali/Downloads/EasyLogisticsDebug/EasyLogistics 2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.12" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

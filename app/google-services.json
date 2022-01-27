@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "62160604211",
+    "project_id": "easylogistics-771d5",
+    "storage_bucket": "easylogistics-771d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62160604211:android:9601c9e06a3d2de0106746",
+        "android_client_info": {
+          "package_name": "com.example.easylogistics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62160604211-camkf5sitkv53ltil62psqdmvusa3rif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANNfOIoZm2oKoz2H3nROhDt0PCpAKIPbc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62160604211-camkf5sitkv53ltil62psqdmvusa3rif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
